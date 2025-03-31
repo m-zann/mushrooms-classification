@@ -1,0 +1,13 @@
+numpy
+matplotlib
+seaborn
+Pillow
+torch
+torchvision
+torchmetrics
+pytorch-lightning
+scikit-learn
+dask
+kaggle
+opencv-python
+kagglehub
